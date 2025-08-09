@@ -15,7 +15,7 @@
   "background": {
     "service_worker": "script.js"
   },
-  "author": "Your Name",
+  "author": "Abbas Sadeghi",
   "homepage_url": "https://github.com/Abssdghi/RTLit",
   "icons": {
     "48": "icons/mainicon48.png",
