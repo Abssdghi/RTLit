@@ -13,7 +13,6 @@
 <br>
 
 ## Installation
-Since the extension isn't yet published on Chrome Web Store, install manually:
 
 1. Download the repository or clone with git:
    ```bash
